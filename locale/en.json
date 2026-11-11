@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token Usage",
+    "description": "Token usage per day, per hour, and an all-time per-model overview, read from this machine's session logs."
+  }
+}
